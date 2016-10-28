@@ -1,0 +1,14 @@
+{
+  "name": "moment-period",
+  "version": "0.0.1",
+  "description": "To manage human period notations like month+1, week+1",
+  "main": "moment-period.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "albinscode",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.15.2"
+  }
+}
