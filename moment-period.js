@@ -7,7 +7,7 @@ var moment = require('moment');
  * If the dateString is an date, same object with two same objects wille be returned.
  * If no valid dateString provided, undefined will be returned.
  */
-moment.period = function (dateString) {
+moment.fn.period = function (dateString) {
     var startDate = dateString;
     var endDate = dateString;
 
