@@ -51,3 +51,5 @@ moment.period = function (dateString) {
         return undefined;
     }
 };
+
+module.exports = moment;
