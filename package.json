@@ -9,6 +9,6 @@
   "author": "albinscode",
   "license": "ISC",
   "peerDependencies": {
-    "moment": "^2.15.2"
+    "moment": "^2.13.0"
   }
 }
